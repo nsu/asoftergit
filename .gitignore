@@ -16,3 +16,10 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+#images
+*.png
+*.jpg
+
+#OS X Junk
+.DS_Store
